@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/TestApiJWT/config
+/.vs/TestApiJWT
+/TestApiJWT/bin/Debug/net5.0
+/TestApiJWT/obj
